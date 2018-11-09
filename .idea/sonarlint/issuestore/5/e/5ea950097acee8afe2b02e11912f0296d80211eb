@@ -1,0 +1,8 @@
+
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(íï±îüÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«“Ñûøÿÿÿÿ
+Asquid:S1481",Remove this unused "txtTemp" local variable.(æ¶ ç
+Psquid:S1854";Remove this useless assignment to local variable "txtTemp".(æ¶ ç
+msquid:S00116"RRename this field "API_Key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ù÷¾øÿÿÿÿ
+isquid:S00116"SRename this field "API_Key2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨Œ•
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(––øÝ

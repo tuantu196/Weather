@@ -1,0 +1,28 @@
+
+gsquid:S2259"MA "NullPointerException" could be thrown; "locationManager" is nullable here.(ı¡­Ôûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+wsquid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "postalCode".(›¢üä
+`squid:S2184"FCast one of the operands of this multiplication operation to a "long".(¾Œµûşÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+lsquid:S1450"RRemove the "TAG" field and declare it as a local variable in the relevant methods.(ıÛ«Ïûÿÿÿÿ
+}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "countryName".(é·ç¨ûÿÿÿÿ
+}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "addressLine".(ÌšŞıÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÄŞ’
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁïÕÒ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Îÿò÷ıÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ
+Csquid:S1125")Remove the literal "false" boolean value.(“Ò¬åüÿÿÿÿ
+@squid:S1168"+Return an empty collection instead of null.(¥¹ï
+{squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "addresses".(¿„„­şÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÅğÙ
+Csquid:S1125")Remove the literal "false" boolean value.(“Ò¬åüÿÿÿÿ
+zsquid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "locality".(è±Á‘ıÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(øˆ÷Ãùÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­íÖ«
+Fsquid:S1068"1Remove this unused "provider_info" private field.(Â „ä
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(êÿ×¤ùÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+hsquid:S3008"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÛ«Ïûÿÿÿÿ
+nsquid:S00116"XRename this field "provider_info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â „ä

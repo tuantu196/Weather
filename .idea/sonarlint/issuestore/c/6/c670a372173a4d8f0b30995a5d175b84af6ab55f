@@ -1,0 +1,15 @@
+
+isquid:S00116"SRename this field "API_Key2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨Œ•
+Msquid:UselessImportCheck"+Remove this unused import 'retrofit2.Call'.(Çö÷›
+Psquid:UselessImportCheck"/Remove this unused import 'retrofit2.Callback'.(›¨,
+wsquid:UselessImportCheck"PRemove this unused import 'com.example.tuantu196.weather.API.CurrentWeatherAPI'.(İ–İ‘ùÿÿÿÿ
+Xsquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+qsquid:UselessImportCheck"ORemove this unused import 'com.example.tuantu196.weather.model.CurrentWeather'.(’ÜÏµ
+rsquid:UselessImportCheck"QRemove this unused import 'com.example.tuantu196.weather.model.SevenDayForecast'.(ÓàÁ
+lsquid:UselessImportCheck"JRemove this unused import 'com.example.tuantu196.weather.API.SevenDayAPI'.(‰©Äµ
+psquid:UselessImportCheck"ORemove this unused import 'com.example.tuantu196.weather.utils.RetrofitClient'.(½´:
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(¯á…ç8ÛÅ×æ‘,
+msquid:S00116"RRename this field "API_Key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ù÷¾øÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(––øİ
+Qsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Response'.(¾éçï
+Tsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ

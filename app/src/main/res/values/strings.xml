@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="GPSAlertDialogTitle">Cài đặt GPS</string>
+    <string name="GPSAlertDialogMessage">GPS chưa được bật. Bạn có muốn vào cài đặt GPS?</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="cancel">Hủy</string>
+    <string name="today">Hôm nay</string>
+    <string name="tommorow">Ngày mai</string>
+    <string name="dayaftertommorow">Ngày kia</string>
+    <string name="forecast7Day"> Dự báo 7 ngày</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="pressure">Áp suất</string>
+    <string name="windspeed">Tốc độ gió</string>
+    <string name="clouds">Mây</string>
+    <string name="format_text_temp" formatted="false">Nhiệt độ hiện tại đang là: %s</string>
+    <string name="thunderstorm_with_light_rain">Bão có mưa nhẹ</string>
+    <string name="thunderstorm_with_rain">Bão với mưa</string>
+    <string name="thunderstorm_with_heavy_rain">Bão có mưa lớn</string>
+    <string name="light_thunderstorm">Sấm sét nhẹ</string>
+    <string name="thunderstorm">Dông</string>
+    <string name="heavy_thunderstorm">Bão lớn</string>
+</resources>
